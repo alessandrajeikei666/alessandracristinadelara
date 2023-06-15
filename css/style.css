@@ -1,0 +1,152 @@
+body {
+    background-image: url(../imagens/rosafundo.jfif);
+    color: rgb(87, 0, 51);
+    font-size: larger;
+}
+
+header {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+
+.logo {
+
+}
+
+.titulo{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+
+}
+
+.menu {
+    background-color: rgb(255, 238, 238);
+    border: solid black;
+    border-width: 50px;
+}
+
+.item-menu{
+    list-style: none;
+    display: inline-block;
+    font-size: 50px;
+    margin: 1% 12% 1% 9%;
+}
+
+.item-menu a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.item-menu a:hover{
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.item-menu a:visited{
+
+}
+
+main{
+
+}
+
+section{
+   font-style: italic; 
+
+    
+}
+
+.Kitty{
+     margin-left: 23%;
+
+}
+
+.titulo-section {
+    margin: 5% 0 3% 0;
+    text-align: center;
+    font-size: x-large;
+    text-decoration: underline;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+.conteudos {
+
+}
+
+.item-conteúdo {
+
+}
+.friends{
+    margin-left: 32%;
+    margin-right: 20%;
+    
+
+}
+
+.redes:hover{
+    font-size: x-large;
+
+}
+
+.redes{
+    text-decoration: underline;
+    text-align: center;
+}
+.hello{
+    margin-left: 10%;
+    margin-right: 50%;
+   
+}
+
+.parque{
+    text-align: center;
+}
+
+.criadores{
+    text-align: center;
+}
+
+.titulo-conteúdo {
+    margin: 0 0 0 0;
+    text-align: center;
+    font-size: small;
+}
+
+.sanrio{
+    text-align: center;
+}
+
+.video{
+    margin-left: 35%;
+}
+
+.local{
+    margin-left: 34%;
+}
+
+.imagem-conteúdo {
+    margin-left: 10%;
+    margin-right: 50%;
+   
+   
+}
+
+.desc-conteúdo {
+    color:rgb(255, 0, 212)
+
+}
+
+footer {
+
+}
+
+.logo-rodape {
+
+}
+
+.texto-rodape {
+    
+}
